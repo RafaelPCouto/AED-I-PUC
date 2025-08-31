@@ -1,6 +1,6 @@
 # Exercícios de Algoritmos e Estruturas de Dados I (AED I)
 
-Repositório destinado aos exercícios desenvolvidos na disciplina **Algoritmos e Estruturas de Dados I**, do curso de **Sistemas de Informação - PUC Minas Virtual**.
+Repositório destinado aos exercícios desenvolvidos na disciplina **Algoritmos e Estruturas de Dados I**, do curso de **Engenharia da Computação - PUC Minas**.
 
 ## 📌 Conteúdo
 - Exercícios básicos de lógica de programação
